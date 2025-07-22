@@ -1,0 +1,7 @@
+name,score
+Jasmine,95
+Chloe,91
+Hannah,90
+Alice,88
+Farah,85
+David,64
