@@ -1,3 +1,6 @@
+DROP TABLE IF EXISTS results;
+DROP TABLE IF EXISTS students;
+
 -- Create student table
 CREATE TABLE students (
     student_id INTEGER PRIMARY KEY,
